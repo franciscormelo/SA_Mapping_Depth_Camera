@@ -3,7 +3,7 @@ This project was developed by students of Autonomous Systems of the first semest
 
 
 # Authors
-- Carolina Costa carolina.c.p.costa @tecnico.ulisboa.pt
+- Carolina Costa carolina.c.p.costa@tecnico.ulisboa.pt
 - Francisco Melo francisco.raposo.melo@tecnico.ulisboa.pt
 - Raúl Vaqueiro raulletrasv@tecnico.ulisboa.pt
 - Rodrigo Rego rodrigorego@tecnico.ulisboa.pt
