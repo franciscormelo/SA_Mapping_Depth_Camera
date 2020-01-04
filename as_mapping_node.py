@@ -6,9 +6,9 @@
 #
 #                       Mapping with Depth Camera ROS Node
 #   Authors:
-#       - Carolina Costa 84175
+#       - Carolina Costa 84022
 #       - Francisco Melo, 84053
-#       - Raul Vaqueiro, 84089
+#       - Raul Vaqueiro, 84175
 #       - Rodrigo Rego, 89213
 #
 #
